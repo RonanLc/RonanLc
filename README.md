@@ -1,10 +1,14 @@
 ### Hi there, welcome on my GitHub profil 👋
 
+I'm currently working on a cute doggy robot !
+
+You can find all my work about it [here](https://www.github.com/RonanLc/Snoopytech/). 🐕
+
+Otherwise, I've already done some other project so take a look on [my repostories](https://www.github.com/RonanLc?tab=repositories). 
+
 <br>
 
-![](https://komarev.com/ghpvc/?username=RonanLc&color=8EDFFF&label=Views+:)
-
-
+![](https://komarev.com/ghpvc/?username=RonanLc&color=8EDFFF&label=Page+views+:)
 
 
 <!--
