@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, welcome on my GitHub profil 👋
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=RonanLc&color=8EDFFF&label=Views+:)
+
+
+
 
 <!--
 **RonanLc/RonanLc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
